@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ReemaRazif
 - 👀 I’m interested in learning more about data analysis and data science.
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m currently developing skills such as Python , excel, machine learning, R programming and tableau
+- 💞️ I’m currently developing skills in the field of Data Analytics such as Python , excel, machine learning, R programming and tableau
 - 📫 How to reach me: reemaummar@gmail.com
 
 <!---
